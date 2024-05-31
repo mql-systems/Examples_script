@@ -1,0 +1,15 @@
+# Compiled MT4/5 files
+*.ex4
+*.ex5
+
+# default examples
+/AccountInfo
+/ArrayDouble
+/Canvas
+/ObjectChart
+/ObjectSphere
+/OpenCL
+/OrderInfo
+/PositionInfo
+/Remnant 3D
+/SymbolInfo
